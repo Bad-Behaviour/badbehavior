@@ -4,7 +4,7 @@
 	"description" : "Bad Behaviour is a spam protection system that detects and blocks unwanted Web accesses.",
 	"license" : "LGPL-3.0-only",
 	"require" : {
-		"php" : "8.0 - 8.1"
+		"php" : "8.0 - 8.4"
 	},
 	"prefer-stable" : true,
 	"homepage" : "https://github.com/Bad-Behaviour/badbehaviour",
